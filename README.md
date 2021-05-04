@@ -8,5 +8,5 @@ Create a folder and copy the main.py file in it, then run the below.
 4. activate
 5. pip install pywin32
 6. pip install icecream
-7. pip install exchangelib
-8. main.py
+7. pip install exchangelib 
+8. main.py (update main.py with your own details before running)
